@@ -1,11 +1,11 @@
 {
     "configurations": [
-            
+        
         {
-            "name": "Dart (main.dart)",
+            "name": "Dart (bin/main.dart)",
             "type": "dart",
             "request": "launch",
-            "program": "main.dart",
+            "program": "bin/main.dart",
             "console": "terminal"
         }
     ]
