@@ -1,8 +1,8 @@
-# Bienvenu dans le Projet DevOps
+# Bienvenu dans le Projet DevOps  
 # Qu'est-ce que DevOps ? Objectifs ? Organisation ? 
 # Tout ces différents points seront abordés tout au long de cette fiche technique, suivi d'exemples et de démonstrations. 
 --------------------------------------------------------  
-## Sommaire 
+## Sommaire
 * Présentation du Projet
 * Présentation de la structure des données
 * Présentation de la structure du programme
@@ -12,8 +12,8 @@
 # Présentation du projet  
 
 ### Le Projet DevOps est une projet programmé et développé en Dart. Celui-ci a pour but de relié les différentes compétences en réseau/développement afin de concevoir un programme permettant de gérer la gestion, la configuration, l'éxécution d'éléments systèmes et réseaux.  
-## Ici, ce projet est conçu afin de gérer la gestion des services Fail2Ban et IpSet, étant des services permettant de sécuriser un/des serveur/s web, en bannissant des IP, a durée limitée selon le développeur, de bannir mannuellement une IP choisit voir un réseau choisit, et de les affichers. Le tout selon différents menus, proposant différentes redirections ainsi que différentes manipulations disponibles. 
-## Ce programme s'éxécutera dans le Terminal de VSCode, ainsi que les commandes dédiées à un terminal "standards" tel que le bash, qui sera utilisée pour effectuer les différentes manipulations tout au long du programme. 
+## Ici, ce projet est conçu afin de gérer la gestion des services Fail2Ban et IpSet, étant des services permettant de sécuriser un/des serveur/s web, en bannissant des IP, a durée limitée selon le développeur, de bannir mannuellement une IP choisit voir un réseau choisit, et de les affichers. Le tout selon différents menus, proposant différentes redirections ainsi que différentes manipulations disponibles.
+## Ce programme s'éxécutera dans le Terminal de VSCode, ainsi que les commandes dédiées à un terminal "standards" tel que le bash, qui sera utilisée pour effectuer les différentes manipulations tout au long du programme.
 
 # Présentation de la structure des données  
 
