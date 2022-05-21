@@ -1,0 +1,12 @@
+{
+    "configurations": [
+            
+        {
+            "name": "Dart (main.dart)",
+            "type": "dart",
+            "request": "launch",
+            "program": "main.dart",
+            "console": "terminal"
+        }
+    ]
+}
