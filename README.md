@@ -22,7 +22,7 @@
 ### Concernant les fameux "IHM", ceux-ci sont regroupés selon leur sujet correspondant, soit, 1 IHM par sujet. Ici il y en aura 4 au total :  
 ### L'IHM Principal qui permettra d'afficher les messages d'entrer et d'arrêt du programme, ainsi que toutes les méthodes, asynchrone ou non, permettant de valider une saisie, de la confirmer, d'afficher des messages d'attentes servant comme "temps de pause" tel que "Appuyez sur entrer pour continuer ...", et le menu Principal de ce projet.  
 ### L'IHM Fail2Ban qui permettra d'afficher, sous différents menus, les actions à réaliser, qui aura toutes les commandes de Terminal à éxécuter en fonction de ce que l'utilisateur aura choisi, et qui aura également des liens de redirections vers d'autres IHM tel que l'IHM IpSet, un autre menu Fail2Ban et une possibilité de retourner au menu précédent.  
-## L'IHM IpSet et l'IHM IP qui auront exactement les mêmes fonctionnalitées que l'IHM Fail2Ban, mais qui éxécuteront les différentes manipulations selon ce que ceux-ci pourront réaliser.  
+### L'IHM IpSet et l'IHM IP qui auront exactement les mêmes fonctionnalitées que l'IHM Fail2Ban, mais qui éxécuteront les différentes manipulations selon ce que ceux-ci pourront réaliser.  
 
 ## Présentation de la structure du programme  
 ### Désormais, parlons de la structure graphique de ce programme, à noter que celui-ci rencontreras très certainement des mises à jour à l'avenir.  
